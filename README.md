@@ -41,6 +41,7 @@ Clonar el repositorio
 
 bash
 git clone https://github.com/ajidres/planets.git
+
 cd planets
 Obtener las dependencias
 
