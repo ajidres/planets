@@ -1,5 +1,6 @@
 # Planets - Aplicación Flutter
 https://img.shields.io/badge/Flutter-3.13.9-blue?style=flat-square&logo=flutter
+
 https://img.shields.io/badge/Dart-3.1.5-blue?style=flat-square&logo=dart
 
 Una aplicación móvil desarrollada en Flutter que muestra información detallada sobre los planetas del sistema solar, con una interfaz de usuario moderna y atractiva.
